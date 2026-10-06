@@ -12,3 +12,4 @@ PC      Nom              Cognoms                    Població                  E
 43      Marc            Meri Navarro                Albaida                   SMX                          Facilitat d'aprenentatge
 46      Neil            Penades Galan               Albaida                   batxiller                    Constant
 46      Arnau           Domenech Blanquer           Rotglà i Corberà          Bachillerat                  Creativitat
+01      Salva           Llàcer Ivars                La Pobla Llarga           CFGS                         Creatiu     
